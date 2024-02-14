@@ -11,6 +11,7 @@ body{
     transform: rotate(20deg);
 }
 #grad1{
+    text-align: left;
     height: 200px;
     background-color: red; /* For browsers that do not suppoert gradients*/
     background-image: linear-gradient(blue,yellow);
