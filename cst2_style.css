@@ -64,7 +64,7 @@ section{
     flex-wrap:wrap;
     justify-content:space-around;
     background-color:#fff;
-    padding: 30px;
+    padding: 40px;
 }
 .menu-item{
     flex-basis: 30%;
